@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\C#\ASM_2\ASM_2\obj\Debug\ASM_2.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\C#\ASM_2\ASM_2\obj\Debug\ASM_2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\C#\ASM_2\ASM_2\bin\Debug\ASM_2.exe.config
+C:\Users\Admin\Documents\C#\ASM_2\ASM_2\bin\Debug\ASM_2.exe
+C:\Users\Admin\Documents\C#\ASM_2\ASM_2\bin\Debug\ASM_2.pdb
+C:\Users\Admin\Documents\C#\ASM_2\ASM_2\obj\Debug\ASM_2.exe
+C:\Users\Admin\Documents\C#\ASM_2\ASM_2\obj\Debug\ASM_2.pdb
